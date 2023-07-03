@@ -2,4 +2,4 @@
 First Odin Project
 
 - First Attempt At A Website
-- Tried using flexbox with no understanding
+- Tried using flexbox with no prior research / experience
